@@ -4,7 +4,7 @@ ___
 
 ## Introduction
 
-MedCab 2020 is a web app that provides an API hook for MedCab, a [Lambda School](https://lambdaschool.com/) cross-discipline build week project.  Potbot is only one piece of a larger puzzle, providing a recommended strain for paitent use based on user input ailments.  The purpose of Potbot is to assist patients who are looking for a more natural treatment options for chronic illnesses.  Users can register at *[Insert Web Address Here]* and select ailments they wish to seek treatment for.  PotBot 2020 will use Natural Language Processing to evaluate their listed ailments, and find the strain of medical marijauana best suited for patient relief.  
+MedCab 2020 is a web app that provides an API hook for MedCab, a [Lambda School](https://lambdaschool.com/) cross-discipline build week project.  Medcab is only one piece of a larger puzzle, providing a recommended strain for paitent use based on user input ailments.  The purpose of Medcab is to assist patients who are looking for a more natural treatment options for chronic illnesses.  Users can register at *[Insert Web Address Here]* and select ailments they wish to seek treatment for.  PotBot 2020 will use Natural Language Processing to evaluate their listed ailments, and find the strain of medical marijauana best suited for patient relief.  
 
 ____
 
@@ -12,7 +12,7 @@ ____
 
 ### Heroku Web App Link:  https://potbot2020.herokuapp.com
 
-- The Pot Bot 2020 web app is built on FastAPI, and utlizies a helper page allowing users to test queries from the above link to get strain recommendations.
+- The Medcab Bot 2020 web app is built on FastAPI, and utlizies a helper page allowing users to test queries from the above link to get strain recommendations.
 
 ### Med Cab Project Website: *[Insert Link Here]*
 
@@ -20,7 +20,7 @@ ____
 
 ___
 
-## PotBot API Instructions:
+## Medcab API Instructions:
 
 ### Installation: 
 
