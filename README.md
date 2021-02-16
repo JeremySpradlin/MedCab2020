@@ -10,11 +10,11 @@ ____
 
 ## Project Links:
 
-### Heroku Web App Link:  https://potbot2020.herokuapp.com
+### Heroku Web App Link:  *App no longer live from project close*
 
 - The Medcab Bot 2020 web app is built on FastAPI, and utlizies a helper page allowing users to test queries from the above link to get strain recommendations.
 
-### Med Cab Project Website: *[Insert Link Here]*
+### Med Cab Project Website: *App no longer live from project close*
 
 - The project website provides a Front End user experience for logging in and getting recommended strains of medical marijuana based on different ailments that the user selects. 
 
